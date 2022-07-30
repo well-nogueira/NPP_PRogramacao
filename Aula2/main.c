@@ -1,16 +1,17 @@
 /******************************************************************************
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-
 #include <stdio.h>
 
 int main()
 {
-    printf("Faz o bolo");
-
+    printf("NPP FATEC SOROCABA \n");
+	printf("Wellington");
+	printf("Teste");
     return 0;
 }
