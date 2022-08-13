@@ -1,0 +1,265 @@
+<!-- Program (begin) -->
+<svg width="640" height="833">
+<g transform="scale(1,1)" stroke="black" fill="white">
+<text x="285" y="40" style = "font-size:11.5;fill:black;stroke:none">
+Program Name
+</text>
+<!-- Insert Module (begin) -->
+<circle cx="211" cy="35" r="5" style="fill:lightgray"/>
+<!-- Insert Module (end) -->
+<!-- Subroutine (begin) -->
+<rect x="176" y="50" width="70" height="30" rx="15" ry="15"/><text x="211" y="63" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+START
+</text>
+<text x="211" y="75" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+main
+</text>
+<path d="M 211 80 L 211 90"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 90 L 211 92"/>
+<circle cx="211" cy="95" r="3" style="fill:lightgray"/>
+<path d="M 211 98 L 211 100"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 100 L 211 110"/>
+<!-- Sequential (begin) -->
+<rect x="153" y="110" width="116" height="41"/>
+<text x="211" y="121" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+unsigned
+</text>
+<text x="211" y="133" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+char
+</text>
+<text x="211" y="145" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+numero&#95;de&#95;passos
+</text>
+<!-- Sequential (end) -->
+<path d="M 211 151 L 211 161"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 161 L 211 163"/>
+<circle cx="211" cy="166" r="3" style="fill:lightgray"/>
+<path d="M 211 169 L 211 171"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 171 L 211 181"/>
+<!-- Sequential (begin) -->
+<rect x="135" y="181" width="152" height="30"/>
+<text x="211" y="193" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+unsigned&#32;char
+</text>
+<text x="211" y="205" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+numero&#95;de&#95;passos&#95;ideal
+</text>
+<!-- Sequential (end) -->
+<path d="M 211 211 L 211 221"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 221 L 211 223"/>
+<circle cx="211" cy="226" r="3" style="fill:lightgray"/>
+<path d="M 211 229 L 211 231"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 231 L 211 241"/>
+<!-- Sequential (begin) -->
+<rect x="153" y="241" width="116" height="30"/>
+<text x="211" y="253" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+numero&#95;de&#95;passos
+</text>
+<text x="211" y="265" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+&#61;&#32;1
+</text>
+<!-- Sequential (end) -->
+<path d="M 211 271 L 211 281"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 281 L 211 283"/>
+<circle cx="211" cy="286" r="3" style="fill:lightgray"/>
+<path d="M 211 289 L 211 291"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 291 L 211 301"/>
+<!-- Sequential (begin) -->
+<rect x="135" y="301" width="152" height="30"/>
+<text x="211" y="313" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+numero&#95;de&#95;passos&#95;ideal
+</text>
+<text x="211" y="325" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+&#61;&#32;15
+</text>
+<!-- Sequential (end) -->
+<path d="M 211 331 L 211 341"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 341 L 211 343"/>
+<circle cx="211" cy="346" r="3" style="fill:lightgray"/>
+<path d="M 211 349 L 211 351"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 351 L 211 361"/>
+<!-- Subroutine Call (begin) -->
+<rect x="145" y="361" width="132" height="30"/><rect x="150" y="361" width="122" height="30"/><text x="211" y="373" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+printf
+</text>
+<text x="211" y="385" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+&#40;numero&#95;de&#95;passos&#41;
+</text>
+<!-- Subroutine Call (end) -->
+<path d="M 211 391 L 211 401"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 401 L 211 403"/>
+<circle cx="211" cy="406" r="3" style="fill:lightgray"/>
+<path d="M 211 409 L 211 411"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 411 L 211 421"/>
+<!-- Subroutine Call (begin) -->
+<rect x="174" y="421" width="74" height="41"/><rect x="179" y="421" width="64" height="41"/><text x="211" y="432" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+print
+</text>
+<text x="211" y="444" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+&#40;&#34;descri&#-25;&#-29;o
+</text>
+<text x="211" y="456" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+do&#32;passo&#34;&#41;
+</text>
+<!-- Subroutine Call (end) -->
+<path d="M 211 462 L 211 472"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 472 L 211 474"/>
+<circle cx="211" cy="477" r="3" style="fill:lightgray"/>
+<path d="M 211 480 L 211 482"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 482 L 211 492"/>
+<!-- Sequential (begin) -->
+<rect x="141" y="492" width="140" height="30"/>
+<text x="211" y="504" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+numero&#95;de&#95;passos
+</text>
+<text x="211" y="516" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+&#61;&#32;numero&#95;de&#95;passos&#43;1
+</text>
+<!-- Sequential (end) -->
+<path d="M 211 522 L 211 532"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 532 L 211 534"/>
+<circle cx="211" cy="537" r="3" style="fill:lightgray"/>
+<path d="M 211 540 L 211 542"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 542 L 211 552"/>
+<!-- Dual Branch Decision (begin) -->
+<path d="M 211 552 L 55 567 211 582 367 567 Z"/>
+<text x="211" y="570" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+numero&#95;de&#95;passos&#61;&#61;numero&#95;de&#95;passos&#95;ideal
+</text>
+<text x="45" y="564" style = "font-size:11.5;fill:black;stroke:none">
+T</text>
+<text x="367" y="564" style = "font-size:11.5;fill:black;stroke:none">
+F</text>
+<path d="M 55 567 L 45 567 45 577"/>
+<!-- Insert Structure (begin) -->
+<path d="M 45 577 L 45 579"/>
+<circle cx="45" cy="582" r="3" style="fill:lightgray"/>
+<path d="M 45 585 L 45 587"/>
+<!-- Insert Structure (end) -->
+<path d="M 45 587 45 597"/>
+<!-- Subroutine Call (begin) -->
+<rect x="10" y="597" width="70" height="41"/><rect x="15" y="597" width="60" height="41"/><text x="45" y="608" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+printf
+</text>
+<text x="45" y="620" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+&#40;&#34;Bom
+</text>
+<text x="45" y="632" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+Apetite&#33;&#34;&#41;
+</text>
+<!-- Subroutine Call (end) -->
+<path d="M 45 638 45 648"/>
+<!-- Insert Structure (begin) -->
+<path d="M 45 648 L 45 650"/>
+<circle cx="45" cy="653" r="3" style="fill:lightgray"/>
+<path d="M 45 656 L 45 658"/>
+<!-- Insert Structure (end) -->
+<path d="M 45 658 L 45 743 211 743"/>
+<path d="M 367 567 L 433 567 433 577"/>
+<!-- Insert Structure (begin) -->
+<path d="M 433 577 L 433 579"/>
+<circle cx="433" cy="582" r="3" style="fill:lightgray"/>
+<path d="M 433 585 L 433 587"/>
+<!-- Insert Structure (end) -->
+<path d="M 433 587 433 597"/>
+<!-- Dual Branch Decision (begin) -->
+<path d="M 433 597 L 281 612 433 627 585 612 Z"/>
+<text x="433" y="615" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+numero&#95;de&#95;passos&#62;numero&#95;de&#95;passos&#95;ideal
+</text>
+<text x="271" y="609" style = "font-size:11.5;fill:black;stroke:none">
+T</text>
+<text x="585" y="609" style = "font-size:11.5;fill:black;stroke:none">
+F</text>
+<path d="M 281 612 L 271 612 271 622"/>
+<!-- Insert Structure (begin) -->
+<path d="M 271 622 L 271 624"/>
+<circle cx="271" cy="627" r="3" style="fill:lightgray"/>
+<path d="M 271 630 L 271 632"/>
+<!-- Insert Structure (end) -->
+<path d="M 271 632 271 642"/>
+<!-- Subroutine Call (begin) -->
+<rect x="221" y="642" width="100" height="41"/><rect x="226" y="642" width="90" height="41"/><text x="271" y="653" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+printf&#32;&#40;&#34;Seu
+</text>
+<text x="271" y="665" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+bolo&#32;est&#-31;&#32;muito
+</text>
+<text x="271" y="677" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+complexo&#34;&#41;
+</text>
+<!-- Subroutine Call (end) -->
+<path d="M 271 683 271 693"/>
+<!-- Insert Structure (begin) -->
+<path d="M 271 693 L 271 695"/>
+<circle cx="271" cy="698" r="3" style="fill:lightgray"/>
+<path d="M 271 701 L 271 703"/>
+<!-- Insert Structure (end) -->
+<path d="M 271 703 L 271 713 433 713"/>
+<path d="M 585 612 L 595 612 595 622"/>
+<!-- Insert Structure (begin) -->
+<path d="M 595 622 L 595 624"/>
+<circle cx="595" cy="627" r="3" style="fill:lightgray"/>
+<path d="M 595 630 L 595 632"/>
+<!-- Insert Structure (end) -->
+<path d="M 595 632 595 642"/>
+<!-- Subroutine Call (begin) -->
+<rect x="560" y="642" width="70" height="30"/><rect x="565" y="642" width="60" height="30"/><text x="595" y="654" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+printf
+</text>
+<text x="595" y="666" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+&#40;&#34;errou&#34;&#41;
+</text>
+<!-- Subroutine Call (end) -->
+<path d="M 595 672 595 682"/>
+<!-- Insert Structure (begin) -->
+<path d="M 595 682 L 595 684"/>
+<circle cx="595" cy="687" r="3" style="fill:lightgray"/>
+<path d="M 595 690 L 595 692"/>
+<!-- Insert Structure (end) -->
+<path d="M 595 692 L 595 713 433 713"/>
+<!-- Dual Branch Decision (end) -->
+<path d="M 433 713 433 723"/>
+<!-- Insert Structure (begin) -->
+<path d="M 433 723 L 433 725"/>
+<circle cx="433" cy="728" r="3" style="fill:lightgray"/>
+<path d="M 433 731 L 433 733"/>
+<!-- Insert Structure (end) -->
+<path d="M 433 733 L 433 743 211 743"/>
+<!-- Dual Branch Decision (end) -->
+<path d="M 211 743 L 211 753"/>
+<!-- Insert Structure (begin) -->
+<path d="M 211 753 L 211 755"/>
+<circle cx="211" cy="758" r="3" style="fill:lightgray"/>
+<path d="M 211 761 L 211 763"/>
+<!-- Insert Structure (end) -->
+<path d="M 211 763 L 211 773"/>
+<rect x="176" y="773" width="70" height="30" rx="15" ry="15"/><text x="211" y="786" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+STOP
+</text>
+<text x="211" y="798" style = "font-size:11.5;fill:black;stroke:none;text-anchor:middle">
+main
+</text>
+<!-- Subroutine (end) -->
+<!-- Insert Module (begin) -->
+<circle cx="211" cy="818" r="5" style="fill:lightgray"/>
+<!-- Insert Module (end) -->
+</g>
+</svg>
+<!-- Program (end) -->

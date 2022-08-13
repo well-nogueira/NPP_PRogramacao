@@ -12,5 +12,6 @@ int main()
 {
     printf("NPP FATEC SOROCABA \n");
 	printf("Wellington");
+	printf("Teste");
     return 0;
 }
